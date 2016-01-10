@@ -6,7 +6,7 @@ import android.util.TypedValue;
 /**
  * Created by mayongsheng on 16/1/10.
  */
-public class DensityUtils {
+public class DensityUtility {
     /**
      * dp转px
      *
