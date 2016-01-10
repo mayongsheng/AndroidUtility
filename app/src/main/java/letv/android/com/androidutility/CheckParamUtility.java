@@ -16,6 +16,6 @@ public class CheckParamUtility {
             return false;
         }
 
-        return true;
+        return false;
     }
 }
